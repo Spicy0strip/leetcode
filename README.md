@@ -1,2 +1,2 @@
 # leetcode
-leetcode JS
+leetcode JS练习
